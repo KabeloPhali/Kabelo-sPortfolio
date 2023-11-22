@@ -1,0 +1,9 @@
+ body {;background-color:#808080; color:#f8f8ff; height:auto; Background-repeat: no-repeat; background-size: 2250px;}
+ h1 {text-align: center;}
+page-name {align-items:center;}
+lower-panel {align-items:center;}
+	* {text-decoration: none}
+		a {color:white; font-family:Sans-serif}	
+a:hover{color:#f0e68c ; transition: all 0.5s; }	
+h1 {font-family:Monospace; margin:80px; padding: 45px; text-shadow: 10px 5px 5px black; font-size:65px;} 
+	p {text-align:left}
